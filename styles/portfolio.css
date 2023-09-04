@@ -82,3 +82,44 @@ h6 a {
     text-decoration: none;
 }
 
+/* banner2 */
+.mycontent{
+    text-align: center;
+    margin-left:260px ;
+    font-size:35px ;
+    font-weight: 700px;
+    color: #181818;
+}
+.mygreeting{
+    margin-left: 350px;
+    margin-right: 80px;
+    text-align: center;
+}
+.mybtn-primary{
+    margin-left: 500px;
+    border-radius: 5px;
+    background: deeppink;;
+    border: 0;
+    color:white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+}
+.myprofile-pic{
+    margin-right: 250px;
+}
+.mybanner{
+    color:#181818;
+    font-size: 35px;
+    font-weight: 500px;
+}
+.comla{
+    color:deeppink;
+}
+.banner2{
+    display: flex;
+    align-items: center;
+    background: #FFF8F3;
+    margin:50px 0px 50px 0px;
+}
+
