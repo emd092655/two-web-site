@@ -53,3 +53,32 @@ span li{
     margin:0px 150px 0px 100px;
 }
 
+.content{
+    height: 200px;
+    margin: 50px 150px 50px 150px;
+    padding-top: 80px;
+    background-color: #f0e9ec;
+}
+.padma{
+    margin-left: 220px ;
+    margin-right:220px ;
+}
+.jamuna{
+    /* margin-right: 300px; */
+    margin-left: 220px;
+}
+h6{
+    margin: 0 20px;
+}
+h6 > ul {
+    display: flex;
+}
+h6 li{
+    list-style: none;
+    margin-left:110px ;
+    margin-right: 70px;
+}
+h6 a {
+    text-decoration: none;
+}
+
