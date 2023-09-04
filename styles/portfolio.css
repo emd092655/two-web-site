@@ -174,3 +174,34 @@ h6 a {
 }
 
 
+
+.header10{
+    background-color:rgb(33, 54, 188);
+}
+.title-p{
+   text-align: center;
+   color:white
+}
+.misty{
+   color:deeppink;
+}
+.center{
+   text-align: center;
+   margin-left: 410px;
+   margin-right: 410px;
+   color: #d4c5c7
+}
+.htmlcaption{
+   text-align: center;
+   color:rgb(175, 202, 164);
+}
+.misty{
+   color: #6d67b6 lue;;
+}
+.profile{
+   background:black;
+   height: 200px;
+   padding: 50px 0 20px 0;
+   margin-top: 50px;
+}
+
