@@ -123,3 +123,23 @@ h6 a {
     margin:50px 0px 50px 0px;
 }
 
+.banner3{
+    background: white;
+    margin-bottom: 50px;
+}
+.title3{
+    text-align: center;
+    color: #181818;
+}
+.banner-content4{
+    padding-right: 50px;
+}
+.myparagraph{
+    margin-left: 510px;
+    margin-right: 490px;
+    text-align: center;
+}
+.mydiv{
+    margin-left: 150px;
+}
+
